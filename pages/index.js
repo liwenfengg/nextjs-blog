@@ -23,9 +23,9 @@ export default function Home({ allPostsData }) {
 				<title>{siteTitle}</title>
 			</Head>
 			<section className={utilStyles.headingMd}>
-				<p>Hello, I'm Shu. I'm a software enginer and a translator (English/Japanese). You can contact me on
-					Twitter.</p>
-				<p>
+				<p>Hey there! I'm a frontend developer based in Shanghai, China. I specialize in building elegant and intuitive user interfaces using frameworks such as React, Vue.</p>
+
+				<p className={'mt-4'}>
 					(This is a sample website - you’ll be building a site like this on{' '}
 					<a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
 				</p>
